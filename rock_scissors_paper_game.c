@@ -1,3 +1,8 @@
+/* 
+    Rock Scissors Paper Game
+    by Hosu Kim
+    July 29, 2024
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
